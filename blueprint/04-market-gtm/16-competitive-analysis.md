@@ -17,6 +17,11 @@
 -   Cline
 -   Roo Code
 -   Continue.dev
+-   Gemini CLI
+
+### Autonomous Agents
+
+-   Devin
 
 ### App Builders
 
