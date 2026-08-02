@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [RFC Template](../18-templates/RFC_TEMPLATE.md)
-  - [Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)
-  - [Decisions Index](../16-decisions/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[RFC Template](../18-templates/RFC_TEMPLATE.md)"
+  - "[Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)"
+  - "[Decisions Index](../16-decisions/README.md)"
 Tags: rfcs, index, process
 Source: New document. Absorbs the empty top-level `reviews/` directory.
 ---
@@ -17,11 +17,11 @@ Proposals open for disagreement, before anything is decided.
 
 ## Current RFCs
 
-None yet.
+One RFC open for comment.
 
 | ID | Title | Status | Outcome |
 |---|---|---|---|
-| — | — | — | — |
+| [RFC-0001](RFC-0001-personal-context-engine.md) | Personal Context Engine | In Review | Open |
 
 ## What an RFC is for
 
