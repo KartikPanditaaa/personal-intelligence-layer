@@ -22,6 +22,7 @@ research canon, decision record, and product thinking behind one.
 | See what is unresolved | [Open Questions](docs/01-problem-space/open-questions.md) |
 | See what to write next | [Documentation Roadmap](docs/DOCUMENTATION_ROADMAP.md) |
 | Contribute a document | [Document Standards](docs/18-templates/DOCUMENT_STANDARDS.md) |
+| Understand how agents work on this repository | [AIOS](aios/README.md) |
 
 ## Structure
 
@@ -51,6 +52,19 @@ docs/
 
 Empty sections are deliberate destinations. Each has a README pointing at where
 that topic is currently discussed elsewhere.
+
+```text
+aios/                    How AI agents operate on this repository (structure only)
+├── 00-CONSTITUTION/     Rules and vocabulary
+├── 01-ROLES/            Agent roles and accountability
+├── 02-MODELS/           Model assignment and routing
+├── 03-WORKFLOWS/        Sequences and prompts
+├── 04-TEMPLATES/        Blank forms for AIOS documents
+└── 05-GOVERNANCE/       How AIOS is amended
+```
+
+`docs/` records what the product is; `aios/` records how work on it gets done.
+AIOS v0.1.0 has structure and no content — see [aios/README.md](aios/README.md).
 
 ## Conventions
 
