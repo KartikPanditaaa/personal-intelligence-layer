@@ -3,9 +3,9 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Competitive Analysis](16-competitive-analysis.md)
-  - [Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)
-  - [Anti-Goals](../00-company/ANTI_GOALS.md)
+  - "[Competitive Analysis](16-competitive-analysis.md)"
+  - "[Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)"
+  - "[Anti-Goals](../00-company/ANTI_GOALS.md)"
 Tags: research, competitors, raw-notes
 Source: Migrated verbatim from `context/competitive-landscape.md`
 ---

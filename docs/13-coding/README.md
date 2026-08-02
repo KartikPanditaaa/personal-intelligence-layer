@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [User Journeys](../03-product/06-user-journeys.md)
-  - [Competitive Analysis](../02-research/16-competitive-analysis.md)
-  - [Anti-Goals](../00-company/ANTI_GOALS.md)
-  - [Writing](../12-writing/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[User Journeys](../03-product/06-user-journeys.md)"
+  - "[Competitive Analysis](../02-research/16-competitive-analysis.md)"
+  - "[Anti-Goals](../00-company/ANTI_GOALS.md)"
+  - "[Writing](../12-writing/README.md)"
 Tags: coding, surface, index, stub
 Source: New document. Coding is one of the two named product surfaces; no dedicated document exists.
 ---

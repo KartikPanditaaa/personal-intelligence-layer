@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Research Index](../02-research/README.md)
-  - [Customer Interview Template](CUSTOMER_INTERVIEW_TEMPLATE.md)
-  - [Assumptions to Validate](../02-research/26-assumptions-to-validate.md)
-  - [Document Standards](DOCUMENT_STANDARDS.md)
+  - "[Research Index](../02-research/README.md)"
+  - "[Customer Interview Template](CUSTOMER_INTERVIEW_TEMPLATE.md)"
+  - "[Assumptions to Validate](../02-research/26-assumptions-to-validate.md)"
+  - "[Document Standards](DOCUMENT_STANDARDS.md)"
 Tags: templates, research, evidence
 Source: New document. Supports the "research canon" recorded as Decided in the [Decisions Log](../16-decisions/decisions-log.md).
 ---

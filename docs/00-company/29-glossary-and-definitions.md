@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Vision and Thesis](01-vision-and-thesis.md)
-  - [Memory](../06-memory/README.md)
-  - [Trust](../08-trust/README.md)
-  - [Learning and Co-Evolution](../11-learning/README.md)
-  - [Technical Plan](../04-architecture/technical-plan.md)
+  - "[Vision and Thesis](01-vision-and-thesis.md)"
+  - "[Memory](../06-memory/README.md)"
+  - "[Trust](../08-trust/README.md)"
+  - "[Learning and Co-Evolution](../11-learning/README.md)"
+  - "[Technical Plan](../04-architecture/technical-plan.md)"
 Tags: company, glossary, vocabulary
 Source: Migrated verbatim from `blueprint/06-risk-execution/29-glossary-and-definitions.md`
 ---

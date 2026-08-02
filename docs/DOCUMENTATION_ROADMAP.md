@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](README.md)
-  - [Document Standards](18-templates/DOCUMENT_STANDARDS.md)
-  - [Open Questions](01-problem-space/open-questions.md)
-  - [90-Day Execution Plan](00-company/27-90-day-execution-plan.md)
+  - "[Documentation Index](README.md)"
+  - "[Document Standards](18-templates/DOCUMENT_STANDARDS.md)"
+  - "[Open Questions](01-problem-space/open-questions.md)"
+  - "[90-Day Execution Plan](00-company/27-90-day-execution-plan.md)"
 Tags: meta, roadmap, navigation, backlog
 Source: New document. Derived from gaps observed during the documentation migration. Contains no product decisions.
 ---

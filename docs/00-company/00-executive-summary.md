@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Vision and Thesis](01-vision-and-thesis.md)
-  - [Positioning and Differentiation](04-positioning-and-differentiation.md)
-  - [Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)
-  - [Product Brief](../03-product/product-brief.md)
-  - [Decisions Log](../16-decisions/decisions-log.md)
+  - "[Vision and Thesis](01-vision-and-thesis.md)"
+  - "[Positioning and Differentiation](04-positioning-and-differentiation.md)"
+  - "[Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)"
+  - "[Product Brief](../03-product/product-brief.md)"
+  - "[Decisions Log](../16-decisions/decisions-log.md)"
 Tags: company, summary, orientation
 Source: Migrated verbatim from `blueprint/01-foundation/00-executive-summary.md`
 ---

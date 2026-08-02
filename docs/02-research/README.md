@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Research Template](../18-templates/RESEARCH_TEMPLATE.md)
-  - [Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)
-  - [Problem Space](../01-problem-space/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[Research Template](../18-templates/RESEARCH_TEMPLATE.md)"
+  - "[Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)"
+  - "[Problem Space](../01-problem-space/README.md)"
 Tags: research, index, evidence
 Source: New document. Replaces the empty top-level `research/` directory.
 ---

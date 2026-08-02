@@ -3,9 +3,9 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Technical Plan](technical-plan.md)
-  - [System Architecture](10-system-architecture.md)
-  - [ADR Template](../18-templates/ADR_TEMPLATE.md)
+  - "[Technical Plan](technical-plan.md)"
+  - "[System Architecture](10-system-architecture.md)"
+  - "[ADR Template](../18-templates/ADR_TEMPLATE.md)"
 Tags: architecture, stack, tooling
 Source: Migrated verbatim from `blueprint/03-technical/11-tech-stack-rationale.md`
 ---

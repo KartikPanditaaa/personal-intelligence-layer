@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Target User Personas](03-target-user-personas.md)
-  - [Open Questions](open-questions.md)
-  - [Product Brief](../03-product/product-brief.md)
-  - [Assumptions to Validate](../02-research/26-assumptions-to-validate.md)
-  - [Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)
+  - "[Target User Personas](03-target-user-personas.md)"
+  - "[Open Questions](open-questions.md)"
+  - "[Product Brief](../03-product/product-brief.md)"
+  - "[Assumptions to Validate](../02-research/26-assumptions-to-validate.md)"
+  - "[Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)"
 Tags: problem-space, pain-points, alternatives
 Source: Migrated verbatim from `blueprint/01-foundation/02-problem-deep-dive.md`
 ---

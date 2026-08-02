@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [VISION](../00-company/VISION.md)
-  - [User Journeys](../03-product/06-user-journeys.md)
-  - [Metrics and KPIs](../14-business/24-metrics-and-kpis.md)
-  - [Memory](../06-memory/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[VISION](../00-company/VISION.md)"
+  - "[User Journeys](../03-product/06-user-journeys.md)"
+  - "[Metrics and KPIs](../14-business/24-metrics-and-kpis.md)"
+  - "[Memory](../06-memory/README.md)"
 Tags: learning, co-evolution, human-growth, index, stub
 Source: New document. Co-evolution and human growth are discussed widely; no dedicated document exists.
 ---

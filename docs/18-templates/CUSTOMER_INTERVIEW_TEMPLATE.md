@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Research Template](RESEARCH_TEMPLATE.md)
-  - [Assumptions to Validate](../02-research/26-assumptions-to-validate.md)
-  - [Target User Personas](../01-problem-space/03-target-user-personas.md)
-  - [Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)
+  - "[Research Template](RESEARCH_TEMPLATE.md)"
+  - "[Assumptions to Validate](../02-research/26-assumptions-to-validate.md)"
+  - "[Target User Personas](../01-problem-space/03-target-user-personas.md)"
+  - "[Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)"
 Tags: templates, research, interviews, validation
 Source: New document.
 ---

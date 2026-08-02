@@ -3,10 +3,10 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Technical Plan](../04-architecture/technical-plan.md)
-  - [System Architecture](../04-architecture/10-system-architecture.md)
-  - [Glossary](../00-company/29-glossary-and-definitions.md)
+  - "[Documentation Index](../README.md)"
+  - "[Technical Plan](../04-architecture/technical-plan.md)"
+  - "[System Architecture](../04-architecture/10-system-architecture.md)"
+  - "[Glossary](../00-company/29-glossary-and-definitions.md)"
 Tags: ai, models, index, stub
 Source: New document. No dedicated AI documents exist yet; this indexes where the topic is currently discussed.
 ---

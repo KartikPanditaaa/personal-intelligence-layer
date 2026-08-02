@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Repository README](../README.md)
-  - [Document Standards](18-templates/DOCUMENT_STANDARDS.md)
-  - [Documentation Roadmap](DOCUMENTATION_ROADMAP.md)
-  - [VISION](00-company/VISION.md)
+  - "[Repository README](../README.md)"
+  - "[Document Standards](18-templates/DOCUMENT_STANDARDS.md)"
+  - "[Documentation Roadmap](DOCUMENTATION_ROADMAP.md)"
+  - "[VISION](00-company/VISION.md)"
 Tags: index, navigation, meta
 Source: New document.
 ---

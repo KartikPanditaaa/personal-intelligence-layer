@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Problem Deep Dive](02-problem-deep-dive.md)
-  - [Market Sizing](../15-go-to-market/15-market-sizing.md)
-  - [Go-To-Market Plan](../15-go-to-market/17-go-to-market-plan.md)
-  - [Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)
+  - "[Problem Deep Dive](02-problem-deep-dive.md)"
+  - "[Market Sizing](../15-go-to-market/15-market-sizing.md)"
+  - "[Go-To-Market Plan](../15-go-to-market/17-go-to-market-plan.md)"
+  - "[Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)"
 Tags: problem-space, personas, users
 Source: Migrated verbatim from `blueprint/01-foundation/03-target-user-personas.md`
 ---

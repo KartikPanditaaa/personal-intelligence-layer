@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [VISION](VISION.md)
-  - [Product Constitution](PRODUCT_CONSTITUTION.md)
-  - [Design Principles](DESIGN_PRINCIPLES.md)
-  - [Executive Summary](00-executive-summary.md)
-  - [UX Principles](../03-product/08-ux-principles.md)
+  - "[VISION](VISION.md)"
+  - "[Product Constitution](PRODUCT_CONSTITUTION.md)"
+  - "[Design Principles](DESIGN_PRINCIPLES.md)"
+  - "[Executive Summary](00-executive-summary.md)"
+  - "[UX Principles](../03-product/08-ux-principles.md)"
 Tags: company, vision, philosophy
 Source: Migrated verbatim from `blueprint/01-foundation/01-vision-and-thesis.md`
 ---

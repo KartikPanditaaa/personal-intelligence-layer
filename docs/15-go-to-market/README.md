@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Business](../14-business/README.md)
-  - [Target User Personas](../01-problem-space/03-target-user-personas.md)
-  - [Competitive Analysis](../02-research/16-competitive-analysis.md)
+  - "[Documentation Index](../README.md)"
+  - "[Business](../14-business/README.md)"
+  - "[Target User Personas](../01-problem-space/03-target-user-personas.md)"
+  - "[Competitive Analysis](../02-research/16-competitive-analysis.md)"
 Tags: go-to-market, index
 Source: New document.
 ---

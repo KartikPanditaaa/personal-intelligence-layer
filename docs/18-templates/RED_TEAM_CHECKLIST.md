@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Risk Register](../00-company/25-risk-register.md)
-  - [Anti-Goals](../00-company/ANTI_GOALS.md)
-  - [Assumptions to Validate](../02-research/26-assumptions-to-validate.md)
-  - [RFC Template](RFC_TEMPLATE.md)
-  - [Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)
+  - "[Risk Register](../00-company/25-risk-register.md)"
+  - "[Anti-Goals](../00-company/ANTI_GOALS.md)"
+  - "[Assumptions to Validate](../02-research/26-assumptions-to-validate.md)"
+  - "[RFC Template](RFC_TEMPLATE.md)"
+  - "[Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)"
 Tags: templates, red-team, review, risk
 Source: New document. The [Decisions Log](../16-decisions/decisions-log.md) records "Use red-team reviews for major ideas" as Decided; this operationalises that without adding to it.
 ---

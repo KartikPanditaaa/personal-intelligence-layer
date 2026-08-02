@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Problem Space](../01-problem-space/README.md)
-  - [Architecture](../04-architecture/README.md)
-  - [Anti-Goals](../00-company/ANTI_GOALS.md)
+  - "[Documentation Index](../README.md)"
+  - "[Problem Space](../01-problem-space/README.md)"
+  - "[Architecture](../04-architecture/README.md)"
+  - "[Anti-Goals](../00-company/ANTI_GOALS.md)"
 Tags: product, index
 Source: New document.
 ---

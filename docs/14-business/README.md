@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Go-To-Market](../15-go-to-market/README.md)
-  - [Product](../03-product/README.md)
-  - [Decision Template](../18-templates/DECISION_TEMPLATE.md)
+  - "[Documentation Index](../README.md)"
+  - "[Go-To-Market](../15-go-to-market/README.md)"
+  - "[Product](../03-product/README.md)"
+  - "[Decision Template](../18-templates/DECISION_TEMPLATE.md)"
 Tags: business, index
 Source: New document.
 ---

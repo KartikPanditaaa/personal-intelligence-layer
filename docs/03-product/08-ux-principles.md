@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Design Principles](../00-company/DESIGN_PRINCIPLES.md)
-  - [Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)
-  - [User Journeys](06-user-journeys.md)
-  - [Trust](../08-trust/README.md)
+  - "[Design Principles](../00-company/DESIGN_PRINCIPLES.md)"
+  - "[Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)"
+  - "[User Journeys](06-user-journeys.md)"
+  - "[Trust](../08-trust/README.md)"
 Tags: product, ux, principles
 Source: Migrated verbatim from `blueprint/02-product/08-ux-principles.md`
 ---

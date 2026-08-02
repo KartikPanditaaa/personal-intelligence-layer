@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [VISION](VISION.md)
-  - [Design Principles](DESIGN_PRINCIPLES.md)
-  - [Anti-Goals](ANTI_GOALS.md)
-  - [UX Principles](../03-product/08-ux-principles.md)
-  - [Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)
+  - "[VISION](VISION.md)"
+  - "[Design Principles](DESIGN_PRINCIPLES.md)"
+  - "[Anti-Goals](ANTI_GOALS.md)"
+  - "[UX Principles](../03-product/08-ux-principles.md)"
+  - "[Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)"
 Tags: company, constitution, principles, canonical
 Source: Scaffold. Candidate articles are drawn verbatim from statements already marked Decided in migrated documents. Ratification is not yet done.
 ---

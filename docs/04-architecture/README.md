@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [ADR Template](../18-templates/ADR_TEMPLATE.md)
-  - [Glossary](../00-company/29-glossary-and-definitions.md)
-  - [Product](../03-product/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[ADR Template](../18-templates/ADR_TEMPLATE.md)"
+  - "[Glossary](../00-company/29-glossary-and-definitions.md)"
+  - "[Product](../03-product/README.md)"
 Tags: architecture, index
 Source: New document.
 ---

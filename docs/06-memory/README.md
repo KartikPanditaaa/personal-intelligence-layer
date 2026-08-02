@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Data Model](../04-architecture/12-data-model.md)
-  - [Technical Plan](../04-architecture/technical-plan.md)
-  - [Privacy](../10-privacy/README.md)
-  - [Trust](../08-trust/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[Data Model](../04-architecture/12-data-model.md)"
+  - "[Technical Plan](../04-architecture/technical-plan.md)"
+  - "[Privacy](../10-privacy/README.md)"
+  - "[Trust](../08-trust/README.md)"
 Tags: memory, index, stub
 Source: New document. Memory is currently discussed across several documents; none is dedicated to it.
 ---

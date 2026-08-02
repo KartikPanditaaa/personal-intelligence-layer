@@ -3,8 +3,8 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Financial Projections](21-financial-projections.md)
-  - [90-Day Execution Plan](../00-company/27-90-day-execution-plan.md)
+  - "[Financial Projections](21-financial-projections.md)"
+  - "[90-Day Execution Plan](../00-company/27-90-day-execution-plan.md)"
 Tags: business, team, hiring
 Source: Migrated verbatim from `blueprint/05-business-ops/22-team-and-hiring-plan.md`
 ---

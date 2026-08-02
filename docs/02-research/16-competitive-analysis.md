@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Competitive Landscape](competitive-landscape.md)
-  - [Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)
-  - [Market Sizing](../15-go-to-market/15-market-sizing.md)
-  - [Research Template](../18-templates/RESEARCH_TEMPLATE.md)
+  - "[Competitive Landscape](competitive-landscape.md)"
+  - "[Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)"
+  - "[Market Sizing](../15-go-to-market/15-market-sizing.md)"
+  - "[Research Template](../18-templates/RESEARCH_TEMPLATE.md)"
 Tags: research, competitors, landscape
 Source: Migrated verbatim from `blueprint/04-market-gtm/16-competitive-analysis.md`
 ---

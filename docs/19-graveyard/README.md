@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Decisions Log](../16-decisions/decisions-log.md)
-  - [Anti-Goals](../00-company/ANTI_GOALS.md)
-  - [Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)
+  - "[Documentation Index](../README.md)"
+  - "[Decisions Log](../16-decisions/decisions-log.md)"
+  - "[Anti-Goals](../00-company/ANTI_GOALS.md)"
+  - "[Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)"
 Tags: graveyard, superseded, rejected, index
 Source: New document. Indexes superseded directions already recorded in `decisions-log.md` and `04-positioning-and-differentiation.md`. Nothing has been moved here or deleted.
 ---

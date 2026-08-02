@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Product Scope V1](05-product-scope-v1.md)
-  - [User Journeys](06-user-journeys.md)
-  - [Executive Summary](../00-company/00-executive-summary.md)
-  - [Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)
-  - [Technical Plan](../04-architecture/technical-plan.md)
+  - "[Product Scope V1](05-product-scope-v1.md)"
+  - "[User Journeys](06-user-journeys.md)"
+  - "[Executive Summary](../00-company/00-executive-summary.md)"
+  - "[Problem Deep Dive](../01-problem-space/02-problem-deep-dive.md)"
+  - "[Technical Plan](../04-architecture/technical-plan.md)"
 Tags: product, brief, scope
 Source: Migrated verbatim from `context/product-brief.md`
 ---

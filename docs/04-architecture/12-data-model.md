@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [System Architecture](10-system-architecture.md)
-  - [Memory](../06-memory/README.md)
-  - [Privacy](../10-privacy/README.md)
-  - [Glossary](../00-company/29-glossary-and-definitions.md)
+  - "[System Architecture](10-system-architecture.md)"
+  - "[Memory](../06-memory/README.md)"
+  - "[Privacy](../10-privacy/README.md)"
+  - "[Glossary](../00-company/29-glossary-and-definitions.md)"
 Tags: architecture, data-model, entities
 Source: Migrated verbatim from `blueprint/03-technical/12-data-model.md`
 ---

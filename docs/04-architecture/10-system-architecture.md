@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Technical Plan](technical-plan.md)
-  - [Data Model](12-data-model.md)
-  - [Integration Strategy](13-integration-strategy.md)
-  - [Context Engine](../07-context/README.md)
-  - [AI Systems](../05-ai/README.md)
+  - "[Technical Plan](technical-plan.md)"
+  - "[Data Model](12-data-model.md)"
+  - "[Integration Strategy](13-integration-strategy.md)"
+  - "[Context Engine](../07-context/README.md)"
+  - "[AI Systems](../05-ai/README.md)"
 Tags: architecture, components, system-design
 Source: Migrated verbatim from `blueprint/03-technical/10-system-architecture.md`
 ---

@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)
-  - [Memory](../06-memory/README.md)
-  - [Security](../09-security/README.md)
-  - [Legal and Compliance Notes](../14-business/23-legal-and-compliance-notes.md)
+  - "[Documentation Index](../README.md)"
+  - "[Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)"
+  - "[Memory](../06-memory/README.md)"
+  - "[Security](../09-security/README.md)"
+  - "[Legal and Compliance Notes](../14-business/23-legal-and-compliance-notes.md)"
 Tags: privacy, index, stub
 Source: New document. Privacy is discussed across many documents; none is dedicated to it.
 ---

@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Decisions Log](decisions-log.md)
-  - [Decision Template](../18-templates/DECISION_TEMPLATE.md)
-  - [ADR Template](../18-templates/ADR_TEMPLATE.md)
-  - [RFC Index](../17-rfcs/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[Decisions Log](decisions-log.md)"
+  - "[Decision Template](../18-templates/DECISION_TEMPLATE.md)"
+  - "[ADR Template](../18-templates/ADR_TEMPLATE.md)"
+  - "[RFC Index](../17-rfcs/README.md)"
 Tags: decisions, index, governance
 Source: New document. Replaces the empty top-level `decisions/` directory.
 ---

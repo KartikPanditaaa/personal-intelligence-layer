@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [VISION](VISION.md)
-  - [Product Constitution](PRODUCT_CONSTITUTION.md)
-  - [Problem Space](../01-problem-space/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[VISION](VISION.md)"
+  - "[Product Constitution](PRODUCT_CONSTITUTION.md)"
+  - "[Problem Space](../01-problem-space/README.md)"
 Tags: company, index
 Source: New document.
 ---

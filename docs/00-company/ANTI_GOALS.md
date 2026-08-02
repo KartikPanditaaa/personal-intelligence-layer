@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Product Constitution](PRODUCT_CONSTITUTION.md)
-  - [Positioning and Differentiation](04-positioning-and-differentiation.md)
-  - [Product Scope V1](../03-product/05-product-scope-v1.md)
-  - [Graveyard](../19-graveyard/README.md)
-  - [Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)
+  - "[Product Constitution](PRODUCT_CONSTITUTION.md)"
+  - "[Positioning and Differentiation](04-positioning-and-differentiation.md)"
+  - "[Product Scope V1](../03-product/05-product-scope-v1.md)"
+  - "[Graveyard](../19-graveyard/README.md)"
+  - "[Red Team Checklist](../18-templates/RED_TEAM_CHECKLIST.md)"
 Tags: company, anti-goals, non-goals, rejected
 Source: Assembled from explicit rejections and non-goals already recorded across migrated documents. No new exclusions introduced.
 ---

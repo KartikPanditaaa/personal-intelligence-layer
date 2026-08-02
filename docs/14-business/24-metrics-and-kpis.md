@@ -3,9 +3,9 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Business Model](20-business-model.md)
-  - [Learning and Co-Evolution](../11-learning/README.md)
-  - [Trust](../08-trust/README.md)
+  - "[Business Model](20-business-model.md)"
+  - "[Learning and Co-Evolution](../11-learning/README.md)"
+  - "[Trust](../08-trust/README.md)"
 Tags: business, metrics, kpis
 Source: Migrated verbatim from `blueprint/05-business-ops/24-metrics-and-kpis.md`
 ---

@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Decision Template](DECISION_TEMPLATE.md)
-  - [RFC Template](RFC_TEMPLATE.md)
-  - [Document Standards](DOCUMENT_STANDARDS.md)
-  - [Architecture Index](../04-architecture/README.md)
+  - "[Decision Template](DECISION_TEMPLATE.md)"
+  - "[RFC Template](RFC_TEMPLATE.md)"
+  - "[Document Standards](DOCUMENT_STANDARDS.md)"
+  - "[Architecture Index](../04-architecture/README.md)"
 Tags: templates, adr, architecture, decisions
 Source: New document.
 ---

@@ -3,10 +3,10 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [System Architecture](../04-architecture/10-system-architecture.md)
-  - [Memory](../06-memory/README.md)
-  - [Integration Strategy](../04-architecture/13-integration-strategy.md)
+  - "[Documentation Index](../README.md)"
+  - "[System Architecture](../04-architecture/10-system-architecture.md)"
+  - "[Memory](../06-memory/README.md)"
+  - "[Integration Strategy](../04-architecture/13-integration-strategy.md)"
 Tags: context, index, stub
 Source: New document. Distinct from the former top-level `context/` directory, whose contents were distributed by subject.
 ---

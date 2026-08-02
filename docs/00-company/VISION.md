@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Vision and Thesis](01-vision-and-thesis.md)
-  - [Executive Summary](00-executive-summary.md)
-  - [Product Constitution](PRODUCT_CONSTITUTION.md)
-  - [Anti-Goals](ANTI_GOALS.md)
-  - [Positioning and Differentiation](04-positioning-and-differentiation.md)
+  - "[Vision and Thesis](01-vision-and-thesis.md)"
+  - "[Executive Summary](00-executive-summary.md)"
+  - "[Product Constitution](PRODUCT_CONSTITUTION.md)"
+  - "[Anti-Goals](ANTI_GOALS.md)"
+  - "[Positioning and Differentiation](04-positioning-and-differentiation.md)"
 Tags: company, vision, canonical
 Source: Assembled from existing statements in `01-vision-and-thesis.md` and `00-executive-summary.md`. No new commitments introduced.
 ---

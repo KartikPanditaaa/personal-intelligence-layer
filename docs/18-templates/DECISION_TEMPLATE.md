@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [ADR Template](ADR_TEMPLATE.md)
-  - [Legacy Decision Log Template](28-decision-log-template.md)
-  - [Decisions Index](../16-decisions/README.md)
-  - [Document Standards](DOCUMENT_STANDARDS.md)
+  - "[ADR Template](ADR_TEMPLATE.md)"
+  - "[Legacy Decision Log Template](28-decision-log-template.md)"
+  - "[Decisions Index](../16-decisions/README.md)"
+  - "[Document Standards](DOCUMENT_STANDARDS.md)"
 Tags: templates, decisions, governance
 Source: New document. Extends the fields already present in the legacy `28-decision-log-template.md`, which is retained unchanged.
 ---

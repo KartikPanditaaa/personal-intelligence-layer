@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Privacy](../10-privacy/README.md)
-  - [Security](../09-security/README.md)
-  - [Risk Register](../00-company/25-risk-register.md)
-  - [Data Model](../04-architecture/12-data-model.md)
+  - "[Privacy](../10-privacy/README.md)"
+  - "[Security](../09-security/README.md)"
+  - "[Risk Register](../00-company/25-risk-register.md)"
+  - "[Data Model](../04-architecture/12-data-model.md)"
 Tags: business, legal, compliance
 Source: Migrated verbatim from `blueprint/05-business-ops/23-legal-and-compliance-notes.md`
 ---

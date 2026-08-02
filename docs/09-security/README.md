@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Privacy](../10-privacy/README.md)
-  - [Legal and Compliance Notes](../14-business/23-legal-and-compliance-notes.md)
-  - [Integration Strategy](../04-architecture/13-integration-strategy.md)
-  - [Risk Register](../00-company/25-risk-register.md)
+  - "[Documentation Index](../README.md)"
+  - "[Privacy](../10-privacy/README.md)"
+  - "[Legal and Compliance Notes](../14-business/23-legal-and-compliance-notes.md)"
+  - "[Integration Strategy](../04-architecture/13-integration-strategy.md)"
+  - "[Risk Register](../00-company/25-risk-register.md)"
 Tags: security, index, stub
 Source: New document. No security material exists in any source document.
 ---

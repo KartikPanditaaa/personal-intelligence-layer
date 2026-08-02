@@ -3,10 +3,10 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [User Journeys](../03-product/06-user-journeys.md)
-  - [Product Brief](../03-product/product-brief.md)
-  - [Coding](../13-coding/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[User Journeys](../03-product/06-user-journeys.md)"
+  - "[Product Brief](../03-product/product-brief.md)"
+  - "[Coding](../13-coding/README.md)"
 Tags: writing, surface, index, stub
 Source: New document. Writing is one of the two named product surfaces; no dedicated document exists.
 ---

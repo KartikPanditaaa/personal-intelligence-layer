@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [UX Principles](../03-product/08-ux-principles.md)
-  - [Product Constitution](PRODUCT_CONSTITUTION.md)
-  - [Anti-Goals](ANTI_GOALS.md)
-  - [User Journeys](../03-product/06-user-journeys.md)
-  - [Trust](../08-trust/README.md)
+  - "[UX Principles](../03-product/08-ux-principles.md)"
+  - "[Product Constitution](PRODUCT_CONSTITUTION.md)"
+  - "[Anti-Goals](ANTI_GOALS.md)"
+  - "[User Journeys](../03-product/06-user-journeys.md)"
+  - "[Trust](../08-trust/README.md)"
 Tags: company, design, principles, ux
 Source: Assembled from `08-ux-principles.md` (Decided list) plus related Decided statements. No new principles introduced.
 ---

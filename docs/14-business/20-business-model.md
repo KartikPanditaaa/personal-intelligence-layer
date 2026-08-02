@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Pricing and Packaging](09-pricing-and-packaging.md)
-  - [Financial Projections](21-financial-projections.md)
-  - [Metrics and KPIs](24-metrics-and-kpis.md)
-  - [Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)
+  - "[Pricing and Packaging](09-pricing-and-packaging.md)"
+  - "[Financial Projections](21-financial-projections.md)"
+  - "[Metrics and KPIs](24-metrics-and-kpis.md)"
+  - "[Positioning and Differentiation](../00-company/04-positioning-and-differentiation.md)"
 Tags: business, model, revenue
 Source: Migrated verbatim from `blueprint/05-business-ops/20-business-model.md`
 ---

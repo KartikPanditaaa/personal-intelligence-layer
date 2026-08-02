@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Document Standards](DOCUMENT_STANDARDS.md)
-  - [Decisions Index](../16-decisions/README.md)
-  - [RFC Index](../17-rfcs/README.md)
+  - "[Documentation Index](../README.md)"
+  - "[Document Standards](DOCUMENT_STANDARDS.md)"
+  - "[Decisions Index](../16-decisions/README.md)"
+  - "[RFC Index](../17-rfcs/README.md)"
 Tags: templates, index, process
 Source: New document.
 ---

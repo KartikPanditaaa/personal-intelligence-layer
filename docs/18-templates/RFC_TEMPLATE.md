@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [RFC Index](../17-rfcs/README.md)
-  - [ADR Template](ADR_TEMPLATE.md)
-  - [Red Team Checklist](RED_TEAM_CHECKLIST.md)
-  - [Document Standards](DOCUMENT_STANDARDS.md)
+  - "[RFC Index](../17-rfcs/README.md)"
+  - "[ADR Template](ADR_TEMPLATE.md)"
+  - "[Red Team Checklist](RED_TEAM_CHECKLIST.md)"
+  - "[Document Standards](DOCUMENT_STANDARDS.md)"
 Tags: templates, rfc, process
 Source: New document.
 ---

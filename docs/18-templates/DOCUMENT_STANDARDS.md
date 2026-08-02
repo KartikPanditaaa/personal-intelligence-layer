@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Documentation Roadmap](../DOCUMENTATION_ROADMAP.md)
-  - [Decision Template](DECISION_TEMPLATE.md)
-  - [ADR Template](ADR_TEMPLATE.md)
-  - [RFC Template](RFC_TEMPLATE.md)
+  - "[Documentation Index](../README.md)"
+  - "[Documentation Roadmap](../DOCUMENTATION_ROADMAP.md)"
+  - "[Decision Template](DECISION_TEMPLATE.md)"
+  - "[ADR Template](ADR_TEMPLATE.md)"
+  - "[RFC Template](RFC_TEMPLATE.md)"
 Tags: standards, meta, process
 Source: New document. Codifies conventions already implicit in the migrated blueprint and context notes.
 ---
@@ -38,7 +38,7 @@ Status: Draft
 Owner: Founder
 Last Updated: YYYY-MM-DD
 Related Documents:
-  - [Label](relative/path.md)
+  - "[Label](relative/path.md)"
 Tags: comma, separated, lowercase
 Source: Where this document's content originated
 ---
@@ -49,9 +49,25 @@ Source: Where this document's content originated
 | `Status` | **Document lifecycle** — see section 3. Not the confidence of the claims inside. |
 | `Owner` | Who is accountable for the document being correct. |
 | `Last Updated` | ISO 8601 (`YYYY-MM-DD`). |
-| `Related Documents` | Relative markdown links. At least two where any exist. |
+| `Related Documents` | Relative markdown links, **each wrapped in double quotes**. At least two where any exist. |
 | `Tags` | Lowercase, comma-separated. Used for search. |
 | `Source` | Origin of the content: a prior file path, a discussion, a research artefact, or `New document`. |
+
+### Why the quotes are mandatory
+
+An unquoted `- [Label](path.md)` is not the string it looks like. YAML reads
+`[Label]` as a *flow sequence* and then fails on the trailing `(path.md)`:
+
+```text
+did not find expected '-' indicator while parsing a block collection
+```
+
+GitHub renders frontmatter with a strict YAML parser and shows that error
+banner at the top of the page instead of the document. Double quotes force the
+value to be read as a plain string.
+
+Any value beginning with `[`, `{`, `*`, `&`, `!`, `%`, `@`, or a backtick needs
+the same treatment.
 
 ## 3. Document lifecycle status
 

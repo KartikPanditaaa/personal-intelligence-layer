@@ -3,10 +3,10 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [Research](../02-research/README.md)
-  - [Product](../03-product/README.md)
-  - [Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)
+  - "[Documentation Index](../README.md)"
+  - "[Research](../02-research/README.md)"
+  - "[Product](../03-product/README.md)"
+  - "[Customer Interview Template](../18-templates/CUSTOMER_INTERVIEW_TEMPLATE.md)"
 Tags: problem-space, index
 Source: New document.
 ---

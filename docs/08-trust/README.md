@@ -3,11 +3,11 @@ Status: Stub
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [Documentation Index](../README.md)
-  - [UX Principles](../03-product/08-ux-principles.md)
-  - [Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)
-  - [Privacy](../10-privacy/README.md)
-  - [Metrics and KPIs](../14-business/24-metrics-and-kpis.md)
+  - "[Documentation Index](../README.md)"
+  - "[UX Principles](../03-product/08-ux-principles.md)"
+  - "[Product Constitution](../00-company/PRODUCT_CONSTITUTION.md)"
+  - "[Privacy](../10-privacy/README.md)"
+  - "[Metrics and KPIs](../14-business/24-metrics-and-kpis.md)"
 Tags: trust, transparency, index, stub
 Source: New document. Trust appears across many documents; none is dedicated to it.
 ---

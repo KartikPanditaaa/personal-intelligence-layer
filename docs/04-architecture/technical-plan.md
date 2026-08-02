@@ -3,11 +3,11 @@ Status: Draft
 Owner: Founder
 Last Updated: 2026-08-02
 Related Documents:
-  - [System Architecture](10-system-architecture.md)
-  - [Tech Stack Rationale](11-tech-stack-rationale.md)
-  - [Memory](../06-memory/README.md)
-  - [Context Engine](../07-context/README.md)
-  - [Glossary](../00-company/29-glossary-and-definitions.md)
+  - "[System Architecture](10-system-architecture.md)"
+  - "[Tech Stack Rationale](11-tech-stack-rationale.md)"
+  - "[Memory](../06-memory/README.md)"
+  - "[Context Engine](../07-context/README.md)"
+  - "[Glossary](../00-company/29-glossary-and-definitions.md)"
 Tags: architecture, planning, speculative
 Source: Migrated verbatim from `context/technical-plan.md`
 ---
